@@ -1,0 +1,11 @@
+C:\Users\Curic\source\repos\Domaca_zadaca1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Curic\source\repos\Domaca_zadaca1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Curic\source\repos\Domaca_zadaca1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Curic\source\repos\Domaca_zadaca1\ConsoleApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\Curic\source\repos\Domaca_zadaca1\ConsoleApp1\bin\Debug\Domaca_zadaca1.dll
+C:\Users\Curic\source\repos\Domaca_zadaca1\ConsoleApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Curic\source\repos\Domaca_zadaca1\ConsoleApp1\bin\Debug\Domaca_zadaca1.pdb
+C:\Users\Curic\source\repos\Domaca_zadaca1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Curic\source\repos\Domaca_zadaca1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Curic\source\repos\Domaca_zadaca1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Curic\source\repos\Domaca_zadaca1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
