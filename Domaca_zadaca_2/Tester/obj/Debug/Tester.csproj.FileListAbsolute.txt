@@ -1,0 +1,13 @@
+C:\Users\Curic\source\repos\ClassLibrary1\Tester\bin\Debug\Tester.exe.config
+C:\Users\Curic\source\repos\ClassLibrary1\Tester\bin\Debug\Tester.exe
+C:\Users\Curic\source\repos\ClassLibrary1\Tester\bin\Debug\Tester.pdb
+C:\Users\Curic\source\repos\ClassLibrary1\Tester\bin\Debug\ClassLibrary1.dll
+C:\Users\Curic\source\repos\ClassLibrary1\Tester\bin\Debug\ClassLibrary1.pdb
+C:\Users\Curic\source\repos\ClassLibrary1\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Curic\source\repos\ClassLibrary1\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+C:\Users\Curic\source\repos\ClassLibrary1\Tester\obj\Debug\Tester.exe
+C:\Users\Curic\source\repos\ClassLibrary1\Tester\obj\Debug\Tester.pdb
+C:\Users\Curic\source\repos\ClassLibrary1\Tester\bin\Debug\Zadatak2.dll
+C:\Users\Curic\source\repos\ClassLibrary1\Tester\bin\Debug\Domaca_zadaca1.dll
+C:\Users\Curic\source\repos\ClassLibrary1\Tester\bin\Debug\Zadatak2.pdb
+C:\Users\Curic\source\repos\ClassLibrary1\Tester\bin\Debug\Domaca_zadaca1.pdb

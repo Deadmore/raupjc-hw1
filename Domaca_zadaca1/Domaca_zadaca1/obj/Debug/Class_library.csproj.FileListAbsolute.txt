@@ -1,8 +1,0 @@
-C:\Users\Curic\source\repos\Domaca_zadaca1\Domaca_zadaca1\bin\Debug\Domaca_zadaca1.dll
-C:\Users\Curic\source\repos\Domaca_zadaca1\Domaca_zadaca1\bin\Debug\Domaca_zadaca1.pdb
-C:\Users\Curic\source\repos\Domaca_zadaca1\Domaca_zadaca1\bin\Debug\ClassLibrary1.dll
-C:\Users\Curic\source\repos\Domaca_zadaca1\Domaca_zadaca1\bin\Debug\ClassLibrary1.pdb
-C:\Users\Curic\source\repos\Domaca_zadaca1\Domaca_zadaca1\obj\Debug\Class_library.csprojResolveAssemblyReference.cache
-C:\Users\Curic\source\repos\Domaca_zadaca1\Domaca_zadaca1\obj\Debug\Class_library.csproj.CoreCompileInputs.cache
-C:\Users\Curic\source\repos\Domaca_zadaca1\Domaca_zadaca1\obj\Debug\Domaca_zadaca1.dll
-C:\Users\Curic\source\repos\Domaca_zadaca1\Domaca_zadaca1\obj\Debug\Domaca_zadaca1.pdb

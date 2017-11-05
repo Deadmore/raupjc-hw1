@@ -1,0 +1,10 @@
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_2\bin\Debug\Zadatak2.dll
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_2\bin\Debug\Zadatak2.pdb
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_2\bin\Debug\ClassLibrary1.dll
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_2\bin\Debug\Domaca_zadaca1.dll
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_2\bin\Debug\ClassLibrary1.pdb
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_2\bin\Debug\Domaca_zadaca1.pdb
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_2\obj\Debug\Zadatak_2.csprojResolveAssemblyReference.cache
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_2\obj\Debug\Zadatak_2.csproj.CoreCompileInputs.cache
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_2\obj\Debug\Zadatak2.dll
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_2\obj\Debug\Zadatak2.pdb

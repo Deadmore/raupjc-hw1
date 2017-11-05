@@ -1,0 +1,11 @@
+C:\Users\Curic\source\repos\ClassLibrary1\Tester_1\bin\Debug\Tester_1.exe.config
+C:\Users\Curic\source\repos\ClassLibrary1\Tester_1\bin\Debug\Tester_1.exe
+C:\Users\Curic\source\repos\ClassLibrary1\Tester_1\bin\Debug\Tester_1.pdb
+C:\Users\Curic\source\repos\ClassLibrary1\Tester_1\bin\Debug\ClassLibrary1.dll
+C:\Users\Curic\source\repos\ClassLibrary1\Tester_1\bin\Debug\Zadatak_3.dll
+C:\Users\Curic\source\repos\ClassLibrary1\Tester_1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Curic\source\repos\ClassLibrary1\Tester_1\bin\Debug\Zadatak_3.pdb
+C:\Users\Curic\source\repos\ClassLibrary1\Tester_1\obj\Debug\Tester_1.csprojResolveAssemblyReference.cache
+C:\Users\Curic\source\repos\ClassLibrary1\Tester_1\obj\Debug\Tester_1.csproj.CoreCompileInputs.cache
+C:\Users\Curic\source\repos\ClassLibrary1\Tester_1\obj\Debug\Tester_1.exe
+C:\Users\Curic\source\repos\ClassLibrary1\Tester_1\obj\Debug\Tester_1.pdb

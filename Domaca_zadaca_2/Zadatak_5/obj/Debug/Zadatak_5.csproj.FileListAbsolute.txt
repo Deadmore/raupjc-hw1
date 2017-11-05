@@ -1,0 +1,7 @@
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_5\bin\Debug\Zadatak_5.exe.config
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_5\bin\Debug\Zadatak_5.exe
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_5\bin\Debug\Zadatak_5.pdb
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_5\obj\Debug\Zadatak_5.csprojResolveAssemblyReference.cache
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_5\obj\Debug\Zadatak_5.csproj.CoreCompileInputs.cache
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_5\obj\Debug\Zadatak_5.exe
+C:\Users\Curic\source\repos\ClassLibrary1\Zadatak_5\obj\Debug\Zadatak_5.pdb
